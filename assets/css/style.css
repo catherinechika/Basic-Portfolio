@@ -1,0 +1,81 @@
+
+header{
+    background-color: #ffffff;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-family: 'Georgia', 'Times, Times New Roman', serif;
+    font-size: 14px;
+    color:#777777;
+    border-color: #cccccc;
+    height: 65px;
+}
+h1{
+    background: #4aaaa5;
+    width: 200px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    height: 35px;
+    font-size: 20px;
+    font-family: 'Georgia', 'Times, Times New Roman', serif;
+}
+
+
+h2{
+font-size: 15px;
+float: right;
+color: #777777;
+border-color: #cccccc;
+position: relative;
+top: -35px;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  }
+
+  h3{
+    padding-bottom: 20px;
+    margin: 20px;
+    color:#4aaaa5;
+    font-size: 30px;
+    border-bottom: 1px solid #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.pagecontent{
+    background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-left:300px;
+    margin-right:300px;
+    margin-top: 40px;
+    height: 550px;
+    padding: 30px;
+  }
+  
+  
+  body{
+    background-image: url(assets/images/white-waves.png);
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin:0;
+}
+
+.index{
+    padding: 10px;
+}
+.port{
+    padding: 10px;
+}
+.contact{
+    padding: 10px;
+}
+footer{
+    background: #666666;
+    color: white;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
